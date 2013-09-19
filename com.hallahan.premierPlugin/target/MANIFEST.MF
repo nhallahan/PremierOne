@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
+Bundle-Vendor: HALLAHAN
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 1.0.0.201309162130
+Bundle-Name: PremierPlugin
+Bundle-Activator: com.hallahan.premierplugin.Activator
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.hallahan.premierplugin;singleton:=true
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
